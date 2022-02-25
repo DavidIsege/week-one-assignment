@@ -1,0 +1,64 @@
+body {
+    color: aliceblue;
+    font-size: 16px;
+    width: 50vw;
+    height: 50vh;
+    font-family: Courier;
+}
+#container {
+    align-items: top;
+    justify-content: center;
+    display: flex;
+    align-items: top;
+    width: 120%;
+    height: 90%;
+    padding: 8px;
+    font-family: 'courier prime';
+    
+}
+form {
+    background: #fa5959;
+    width: 80%;
+    height: 120%;
+    justify-content: center;
+    padding: 20px; 
+    border-radius: 30px;
+    margin-left: 300px;
+    position: relative;
+    left: 200px;
+    
+   
+
+}
+img {
+    width: 100vw;
+    height: 100vh;
+}
+.form-group {
+    width: 250px;
+    height: 20px;
+    justify-content:center;
+}
+.butt {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h4 {
+    display: flex;
+    justify-content: center;
+}
+button {
+    height: 30px;
+    width: 200px;
+    background: #fa5959;
+    color: aliceblue;
+    border-radius: 3px; 
+    justify-content: center   
+}
+input {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+
